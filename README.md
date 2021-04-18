@@ -19,4 +19,4 @@ Projede Kullanilanlar
   -Alert Dialog 
   -ListView,Adapter
   -Linear Layout
-  -Data Picker
+  -DataPicker
